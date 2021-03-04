@@ -28,3 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 "# frontend_todolist_schulverwaltung" 
 "# schulverwaltung_todolsit" 
 "# schulverwaltung_todolsit" 
+"# frontend_todolist_schulverwaltung" 
